@@ -10,7 +10,7 @@
 
  --> Run the program (npm start).
 
- --> You will find a Page(Main Page) on local server Headed PokeReact and list of Pokemon along with it.
+ --> You will find a Page(Main Page) on local server Headed PokeReact and list of Pokemon along with it in your browser.
 
  --> On clicking a Pokemon, it loaded you to next page of details about that Pokemon.
 
