@@ -9,3 +9,9 @@
  --> Download all the dependencies (npm install).
 
  --> Run the program (npm start).
+
+ --> You will find a Page(Main Page) on local server Headed PokeReact and list of Pokemon along with it.
+
+ --> On clicking a Pokemon, it loaded you to next page of details about that Pokemon.
+
+ --> Simply click to back to went to the Main Page.
